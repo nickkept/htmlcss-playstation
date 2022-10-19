@@ -1,4 +1,4 @@
-.img-fluid{
+.logo_img{
     max-width: 60px;
 }
 li{
@@ -22,5 +22,44 @@ nav svg{
     padding: 0.5rem;
     background-color: #191919;
     border-radius: 20px;
+    border: 0;
+}
+.btn_red{
+    background-color: #CD3D10;
+}
+.btn_blue{
+    background-color: #2C64E6;
+}
+
+.jumbotron{
+    background-image: url(../img/jumbo-bg.png);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+.jumbotron img{
+    width: 60%;
+    height: auto;
+}
+.jumbotron-mid{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+.jumbotron-mid img{
+    width: 60%;
+    height: auto;
+}
+.col-jumbo{
+    padding-top: 12rem;
+}
+.col-jumbo-mid{
+    padding-top: 2rem;
+}
+.card-img{
+    border-radius: 20%;
+}
+.card{
     border: 0;
 }
