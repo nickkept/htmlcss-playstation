@@ -1,0 +1,26 @@
+.img-fluid{
+    max-width: 60px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    padding: 0 0.2rem;
+    color: black;
+    
+}
+nav svg{
+    height: 10px;
+    padding-left: .5rem;
+}
+.nav_menu-lt > svg{
+    height: 24px;
+}
+
+.my_btn{
+    padding: 0.5rem;
+    background-color: #191919;
+    border-radius: 20px;
+    border: 0;
+}
