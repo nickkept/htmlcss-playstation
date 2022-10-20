@@ -1,6 +1,7 @@
 .logo_img{
     max-width: 60px;
 }
+
 li{
     list-style: none;
 }
@@ -30,7 +31,10 @@ nav svg{
 .btn_blue{
     background-color: #2C64E6;
 }
-
+.my-plus-btn{
+    color: #2C64E6;
+    background-color: #D9DADC;
+}
 .jumbotron{
     background-image: url(../img/jumbo-bg.png);
     height: 500px;
@@ -62,4 +66,22 @@ nav svg{
 }
 .card{
     border: 0;
+    background-color: unset;
+}
+.bg_gray{
+    background-color: #1F1F1F;
+}
+.bg_light_gray{
+    background-color: #BEBCBB;
+}
+.bg_dark_blue{
+    background-color: #161C3B;
+}
+.my_plus_logo img{
+    max-width: 60%;
+    height: auto;
+}
+.my_now_logo img{
+    max-width: 60%;
+    height: auto;
 }
