@@ -46,7 +46,7 @@ footer svg{
 }
 .jumbotron{
     background-image: url(../img/jumbo-bg.png);
-    height: 500px;
+    height: 550px;
     background-position: center;
     background-size: cover;
 }
@@ -100,4 +100,8 @@ footer svg{
 .img_footer{
     max-width: 30%;
     height: auto;
+}
+
+footer a{
+    display: block;
 }
