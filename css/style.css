@@ -11,9 +11,18 @@ a{
     color: black;
     
 }
-nav svg{
+footer a{
+    color: white;
+}
+svg{
     height: 10px;
     padding-left: .5rem;
+}
+footer svg{
+    height: 23px;
+    padding-left: .5rem;
+    padding-right: .5rem;
+
 }
 .nav_menu-lt > svg{
     height: 24px;
@@ -62,7 +71,7 @@ nav svg{
     padding-top: 2rem;
 }
 .card-img{
-    border-radius: 20%;
+    
 }
 .card{
     border: 0;
@@ -77,11 +86,18 @@ nav svg{
 .bg_dark_blue{
     background-color: #161C3B;
 }
+.bg_blue{
+    background-color: #00439C;
+}
 .my_plus_logo img{
     max-width: 60%;
     height: auto;
 }
 .my_now_logo img{
     max-width: 60%;
+    height: auto;
+}
+.img_footer{
+    max-width: 30%;
     height: auto;
 }
